@@ -8,3 +8,9 @@
 * Train: 80%; Test: 20% 
 * Score: 0.7014925373134329
 * **Lots of false negatives**
+
+## AdaBoost
+* Attributes used: all except 'date_x','serial_number','model','failure_x','date_actual_fail'
+* Used various oversample/undersample methods (SMOTE, SMOTETomek, ADASYN)
+* For AdaBoostSMOTETOMEK(biased data).ipynb, negative:positive ratio is 1:5
+* Still WIP to increase recall
