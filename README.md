@@ -1,5 +1,7 @@
 # Hard-Disk-Predictive-Maintenance
 
+Repository of models trained for CS3244 Machine Learning term project. See project paper [here](Report/CS3244 Group 20 Project Report.pdf).
+
 ## Logistic Regression (LogisticRegression.ipynb)
 * Attributes used: 'smart_12_normalized', 'smart_189_normalized', 'smart_190_normalized', 'smart_193_normalized',
              'smart_199_normalized', 'smart_240_normalized', 'smart_242_normalized', 'smart_5_normalized',
