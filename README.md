@@ -15,4 +15,3 @@ Repository of models trained for CS3244 Machine Learning term project. See proje
 * Attributes used: all except 'date_x','serial_number','model','failure_x','date_actual_fail'
 * Used various oversample/undersample methods (SMOTE, SMOTETomek, ADASYN)
 * For AdaBoostSMOTETOMEK(biased data).ipynb, negative:positive ratio is 1:5
-* Still WIP to increase recall
